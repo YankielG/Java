@@ -1,0 +1,12 @@
+  
+import java.util.Scanner;
+
+public class Prezentacja {
+
+    public static void main(String[] args) {
+        int a = 1;
+        System.out.println("Prezentacja");
+        System.out.println(a);
+
+    }
+}
